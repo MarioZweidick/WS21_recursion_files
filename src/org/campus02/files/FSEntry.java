@@ -2,6 +2,7 @@ package org.campus02.files;
 
 import java.util.ArrayList;
 
+//FSEntry = File System Entry
 public abstract class FSEntry {
     protected String name;
 
